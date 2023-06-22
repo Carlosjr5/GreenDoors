@@ -1,3 +1,28 @@
+🌟 Welcome to My Awesome App! 🚀
+
+To get started, follow these steps:
+
+1. Clone the repository:
+   git clone https://github.com/Carlosjr5/GreenDoors.git
+
+2. Navigate to the project directory:
+   cd GreenDoors
+
+3. Install dependencies:
+   npm install
+
+4. Start the app:
+   npm run start
+
+That's it! You're all set to explore My Awesome App. Enjoy! :)
+
+
+
+
+
+
+----------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
