@@ -3,15 +3,19 @@
 To get started, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Carlosjr5/GreenDoors.git
 
-2. Navigate to the project directory:
-   cd GreenDoors
+    git clone https://github.com/Carlosjr5/GreenDoors.git
 
-3. Install dependencies:
-   npm install
+3. Navigate to the project directory:
 
-4. Start the app:
+    cd GreenDoors
+
+4. Install dependencies:
+
+    npm install
+
+6. Start the app:
+
    npm run start
 
 That's it! You're all set to explore My Awesome App. Enjoy! :)
